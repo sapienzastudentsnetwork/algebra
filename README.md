@@ -7,8 +7,8 @@ Lo scopo di questo repository GitHub è la condivisione e discussione delle solu
 _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe da un professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricordati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
 ### Risorse Utili
-- **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/piazza/alg-info-23-24.htm) 
-- **Moodle del Corso** [[🌐]](https://elearning.uniroma1.it/course/view.php?id=17234) 
+- **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/piazza/alg-info-23-24.htm) >> contiene le informazioni del corso, il programma e il diario delle lezioni per l'a.a 2023/2024
+- **Moodle del Corso** [[🌐]](https://elearning.uniroma1.it/course/view.php?id=17234) >> contiene gli annunci del corso
 
 ## Collegamenti rapidi
 
@@ -36,7 +36,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ## Esercizi del Libro
 ### Capitolo 1
 
-|    |    |    |    |    
-|----|----|----|----|
-| |||  |
-| |||  |
+|    |    |    | 
+|----|----|----|
+|[1.1.1-1.1.5](../../issues/09) |[1.2.1](../../issues/10) | [1.2.2](../../issues/12) |
+| [1.4.2](../../issues/13) |[1.4.3](../../issues/14) |[1.4.4](../../issues/15) |
