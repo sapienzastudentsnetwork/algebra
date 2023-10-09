@@ -10,13 +10,19 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 - **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/piazza/alg-info-23-24.htm) 
 - **Moodle del Corso** [[🌐]](https://elearning.uniroma1.it/course/view.php?id=17234) 
 
-### Collegamenti rapidi
+## Collegamenti rapidi
 
 #### Fogli di esercizi
 
 |    |   
 |----|
 | [1](#foglio-1) |
+
+#### Esercizi del Libro per Capitolo
+
+|    |   
+|----|
+| [1](#capitolo-1)|
 
 ## Fogli di Esercizi
 
@@ -25,4 +31,12 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |    |    |    |    |    
 |----|----|----|----|
 | [01](../../issues/01)  | [02](../../issues/02)  | [03](../../issues/03)  | [04](../../issues/04)  |
-| [05](../../issues/05)  | [06](../../issues/06)  | [07](../../issues/07)  | [08](../../issues/08)  | 
+| [05](../../issues/05)  | [06](../../issues/06)  | [07](../../issues/07)  | [08](../../issues/08)  |
+
+## Esercizi del Libro
+### Capitolo 1
+
+|    |    |    |    |    
+|----|----|----|----|
+| |||  |
+| |||  |
