@@ -18,11 +18,16 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|
 | [1](#foglio-1) |
 
-#### Esercizi del Libro per Capitolo
+#### Esercizi del libro per Capitolo
 
 |    |   
 |----|
 | [1](#capitolo-1)|
+
+#### Esercizi assegnati a Lezione
+|    |   
+|----|
+| [1](#lezione-4)|
 
 ## Fogli di Esercizi
 
@@ -40,3 +45,10 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|
 |[1.1.1-1.1.5](../../issues/09) |[1.2.1](../../issues/10) | [1.2.2](../../issues/11) |
 | [1.4.2](../../issues/12) |[1.4.3](../../issues/13) |[1.4.4](../../issues/14) |
+
+## Esercizi assegnati a Lezione
+### Lezione 4
+
+|    |    |   
+|----|----|
+| [1](../--/issues/16) | [2](../--/issues/17) | 
