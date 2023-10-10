@@ -38,5 +38,5 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 |    |    |    | 
 |----|----|----|
-|[1.1.1-1.1.5](../../issues/09) |[1.2.1](../../issues/10) | [1.2.2](../../issues/12) |
-| [1.4.2](../../issues/13) |[1.4.3](../../issues/14) |[1.4.4](../../issues/15) |
+|[1.1.1-1.1.5](../../issues/09) |[1.2.1](../../issues/10) | [1.2.2](../../issues/11) |
+| [1.4.2](../../issues/12) |[1.4.3](../../issues/13) |[1.4.4](../../issues/14) |
