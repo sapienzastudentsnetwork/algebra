@@ -51,4 +51,4 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 |    |    |   
 |----|----|
-| [1](../--/issues/16) | [2](../--/issues/17) | 
+| [1](../../issues/16) | [2](../../issues/17) | 
