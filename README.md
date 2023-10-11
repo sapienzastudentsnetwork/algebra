@@ -25,9 +25,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [1](#capitolo-1)|
 
 #### Esercizi assegnati a Lezione
-|    |   
-|----|
-| [1](#lezione-4)|
+|    |    |
+|----|----|
+| [4](#lezione-4)|[5](#lezione-5) |
 
 ## Fogli di Esercizi
 
@@ -48,7 +48,10 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ## Esercizi assegnati a Lezione
 ### Lezione 4
-
 |    |    |   
 |----|----|
 | [1](../../issues/16) | [2](../../issues/17) | 
+### Lezione 5
+|    |   
+|----|
+| [1](../../issues/18)| 
