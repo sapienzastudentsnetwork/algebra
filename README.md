@@ -14,9 +14,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 #### Fogli di esercizi
 
-|    |    |
-|----|----|
-| [1](#foglio-1) | [2](#foglio-2) |
+|    |    |    |
+|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) |
 
 #### Esercizi del libro per Capitolo
 
@@ -32,15 +32,20 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ## Fogli di Esercizi
 
 ### Foglio 1
-|    |    |    |    |    
-|----|----|----|----|
-| [1](../../issues/01)  | [2](../../issues/02)  | [3](../../issues/03)  | [4](../../issues/04)  |
+|    |    |    |    |              
+|----|----|----|----|             
+| [1](../../issues/01)  | [2](../../issues/02)  | [3](../../issues/03)  | [4](../../issues/04)  |       
 | [5](../../issues/05)  | [6](../../issues/06)  | [7](../../issues/07)  | [8](../../issues/08)  |
 ### Foglio 2
 |    |    |    |    |    
 |----|----|----|----|
 | [1](../../issues/19)  | [2](../../issues/20)  | [3](../../issues/21)  | [4](../../issues/22)  |
 | [5](../../issues/23)  | [6](../../issues/24)  | [7](../../issues/25)  | [8](../../issues/26)  |
+### Foglio 3
+|    |    |    |   
+|----|----|----|
+| [1](../../issues/34)  | [2](../../issues/35)  | [3](../../issues/36)  |
+| [4](../../issues/37)  | [5](../../issues/38)  | | 
 
 ## Esercizi del Libro
 ### Capitolo 1
