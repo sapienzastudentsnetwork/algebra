@@ -14,9 +14,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 #### Fogli di esercizi
 
-|    |    |    |    |
-|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) |
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) |
 
 #### Esercizi del libro per Capitolo
 
@@ -25,7 +25,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [1](#capitolo-1)|
 
 #### Esercizi assegnati per Lezione
-|    |    |    |
+|    |    |    |    
 |----|----|----|
 | [4](#lezione-4)|[5](#lezione-5) | [8](#lezione-8)|
 
@@ -51,7 +51,11 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|----|----|----|----|----|
 | [1](../../issues/39)  | [2](../../issues/40)  | [3](../../issues/41)  | [4](../../issues/42)  | [5](../../issues/43)  | [6](../../issues/44)  | [7](../../issues/45)  | [8](../../issues/46)  |
 | [9](../../issues/47)  | [10](../../issues/48)  | [11](../../issues/49)  | [12](../../issues/50)  | [13](../../issues/51)  | [14](../../issues/52)  | [15](../../issues/53)  | [16](../../issues/54)  |
-
+### Foglio 5
+|    |    |    |    |    |       
+|----|----|----|----|----|
+| [1](../../issues/55)  | [2](../../issues/56)  | [3](../../issues/57)  | [4](../../issues/58)  | [5](../../issues/59)  |
+| [6](../../issues/60)  | [7](../../issues/61)  | [8](../../issues/62)  | [9](../../issues/63)  | [10](../../issues/64)  |
 
 ## Esercizi del Libro
 ### Capitolo 1
