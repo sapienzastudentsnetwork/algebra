@@ -76,7 +76,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Esercitazione 15 Novembre 2023
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/78)  | [2](../../issues/79)  | [3](../../issues/80)  | [4](../../issues/81)  |
+| [1](../../issues/79)  | [2](../../issues/80)  | [3](../../issues/81)  | [4](../../issues/82)  |
 
 ## Esercizi del Libro
 ### Capitolo 1
