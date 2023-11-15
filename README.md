@@ -18,6 +18,11 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|----|----|----|----|
 | [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) |
 
+#### Esercitazioni
+|    |
+|----|
+| [15 Novembre 2023](#esercitazione-15-novembre-2023)  |
+
 #### Esercizi del libro per Capitolo
 
 |    |   
@@ -66,6 +71,12 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|----|
 | [1](../../issues/73)  | [2](../../issues/74)  | [3](../../issues/75)  | [4](../../issues/76)  |
 |   |  | [r3](../../issues/77)  | [r4](../../issues/77)  |
+
+## Esercitazioni
+### Esercitazione 15 Novembre 2023
+|    |    |    |    |    
+|----|----|----|----|
+| [1](../../issues/78)  | [2](../../issues/79)  | [3](../../issues/80)  | [4](../../issues/81)  |
 
 ## Esercizi del Libro
 ### Capitolo 1
