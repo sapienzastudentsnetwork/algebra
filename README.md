@@ -95,7 +95,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Foglio 13
 |    |    |    |    |         
 |----|----|----|----|
-| [1](../../issues/112)  | [2](../../issues/113)  | [3](../../issues/114)  | [115](../../issues/93)  | 
+| [1](../../issues/112)  | [2](../../issues/113)  | [3](../../issues/114)  | [4](../../issues/115)  | 
 
 ## Esercitazioni
 ### Esercitazione 15 Novembre 2023
