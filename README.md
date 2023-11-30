@@ -14,9 +14,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 #### Fogli di esercizi
 
-|    |    |    |    |    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) | [12](#foglio-12) |
+|    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) | [12](#foglio-12) | [13](#foglio-13) |
 
 #### Esercitazioni
 |    |
@@ -92,6 +92,10 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|----|----|----|
 | [1](../../issues/100)  | [2](../../issues/101)  | [3](../../issues/102)  | [4](../../issues/103)  | [5](../../issues/104)  | [6](../../issues/105)  |
 | [7](../../issues/106)  | [8](../../issues/107)  | [9](../../issues/108)  | [10](../../issues/109)  | [11](../../issues/110)  | [12](../../issues/111)  |
+### Foglio 13
+|    |    |    |    |         
+|----|----|----|----|
+| [1](../../issues/112)  | [2](../../issues/113)  | [3](../../issues/114)  | [115](../../issues/93)  | 
 
 ## Esercitazioni
 ### Esercitazione 15 Novembre 2023
