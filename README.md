@@ -14,9 +14,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 #### Fogli di esercizi
 
-|    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) | [12](#foglio-12) | [13](#foglio-13) | [14](#foglio-14) |
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) | [12](#foglio-12) | [13](#foglio-13) | [14](#foglio-14) | [15](#foglio-15) |
 
 #### Esercitazioni
 |    |    |
@@ -100,6 +100,10 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |    |    |    |     
 |----|----|----|
 | [1](../../issues/116)  | [2](../../issues/117)  | [3](../../issues/118)  |
+### Foglio 15
+|    |    |    |    |    |       
+|----|----|----|----|----|
+| [1](../../issues/123)  | [2](../../issues/124)  | [3](../../issues/125)  | [4](../../issues/126)  | [5](../../issues/127)  |
 
 
 ## Esercitazioni
