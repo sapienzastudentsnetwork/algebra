@@ -19,9 +19,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) | [12](#foglio-12) | [13](#foglio-13) | [14](#foglio-14) | [15](#foglio-15) |
 
 #### Esercitazioni
-|    |    |
-|----|----|
-| [15 Novembre 2023](#esercitazione-15-novembre-2023)  | [6 Dicembre 2023](#esercitazione-6-dicembre-2023)  |
+|    |    |    |
+|----|----|----|
+| [15 Novembre 2023](#esercitazione-15-novembre-2023)  | [6 Dicembre 2023](#esercitazione-6-dicembre-2023)  | [13 Dicembre 2023](#esercitazione-13-dicembre-2023)  |
 
 #### Esercizi del libro per Capitolo
 
@@ -115,6 +115,10 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |    |    |    |    |    
 |----|----|----|----|
 | [1](../../issues/119)  | [2](../../issues/120)  | [3](../../issues/121)  | [4](../../issues/122)  |
+### Esercitazione 13 Dicembre 2023
+|    |    |    |    |    
+|----|----|----|----|
+| [1](../../issues/128)  | [2](../../issues/129)  | [3](../../issues/130)  | [4](../../issues/131)  |
 
 ## Esercizi del Libro
 ### Capitolo 1
