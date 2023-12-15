@@ -4,7 +4,7 @@
 
 Lo scopo di questo repository GitHub è la condivisione e discussione delle soluzioni dei fogli d'esercizi di Algebra forniti dal prof. Paolo Piazza durante l'anno accademico 2023-2024. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
-_**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe da un professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricordati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
+_**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe da un professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricordati** nelle pagine degli esercizi (discussions) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
 ### Risorse Utili
 - **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/piazza/alg-info-23-24.htm) >> contiene le informazioni del corso, il programma e il diario delle lezioni per l'a.a 2023/2024
@@ -39,110 +39,110 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Foglio 1
 |    |    |    |    |              
 |----|----|----|----|             
-| [1](../../issues/01)  | [2](../../issues/02)  | [3](../../issues/03)  | [4](../../issues/04)  |       
-| [5](../../issues/05)  | [6](../../issues/06)  | [7](../../issues/07)  | [8](../../issues/08)  |
+| [1](../../discussions/156)  | [2](../../discussions/157)  | [3](../../discussions/158)  | [4](../../discussions/159)  |       
+| [5](../../discussions/160)  | [6](../../discussions/161)  | [7](../../discussions/136)  | [8](../../discussions/162)  |
 ### Foglio 2
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/19)  | [2](../../issues/20)  | [3](../../issues/21)  | [4](../../issues/22)  |
-| [5](../../issues/23)  | [6](../../issues/24)  | [7](../../issues/25)  | [8](../../issues/26)  |
+| [1](../../discussions/166)  | [2](../../discussions/167)  | [3](../../discussions/175)  | [4](../../discussions/177)  |
+| [5](../../discussions/168)  | [6](../../discussions/169)  | [7](../../discussions/170)  | [8](../../discussions/171)  |
 ### Foglio 3
 |    |    |    |   
 |----|----|----|
-| [1](../../issues/34)  | [2](../../issues/35)  | [3](../../issues/36)  |
-| [4](../../issues/37)  | [5](../../issues/38)  | | 
+| [1](../../discussions/180)  | [2](../../discussions/182)  | [3](../../discussions/184)  |
+| [4](../../discussions/186)  | [5](../../discussions/188)  | | 
 ### Foglio 4
 |    |    |    |    |    |    |    |    |     
 |----|----|----|----|----|----|----|----|
-| [1](../../issues/39)  | [2](../../issues/40)  | [3](../../issues/41)  | [4](../../issues/42)  | [5](../../issues/43)  | [6](../../issues/44)  | [7](../../issues/45)  | [8](../../issues/46)  |
-| [9](../../issues/47)  | [10](../../issues/48)  | [11](../../issues/49)  | [12](../../issues/50)  | [13](../../issues/51)  | [14](../../issues/52)  | [15](../../issues/53)  | [16](../../issues/54)  |
+| [1](../../discussions/185)  | [2](../../discussions/187)  | [3](../../discussions/189)  | [4](../../discussions/191)  | [5](../../discussions/193)  | [6](../../discussions/294)  | [7](../../discussions/295)  | [8](../../discussions/296)  |
+| [9](../../discussions/297)  | [10](../../discussions/298)  | [11](../../discussions/299)  | [12](../../discussions/300)  | [13](../../discussions/301)  | [14](../../discussions/302)  | [15](../../discussions/303)  | [16](../../discussions/142)  |
 ### Foglio 5
 |    |    |    |    |    |       
 |----|----|----|----|----|
-| [1](../../issues/55)  | [2](../../issues/56)  | [3](../../issues/57)  | [4](../../issues/58)  | [5](../../issues/59)  |
-| [6](../../issues/60)  | [7](../../issues/61)  | [8](../../issues/62)  | [9](../../issues/63)  | [10](../../issues/64)  |
+| [1](../../discussions/304)  | [2](../../discussions/305)  | [3](../../discussions/306)  | [4](../../discussions/307)  | [5](../../discussions/308)  |
+| [6](../../discussions/309)  | [7](../../discussions/310)  | [8](../../discussions/311)  | [9](../../discussions/143)  | [10](../../discussions/312)  |
 ### Foglio 6
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/65)  | [2](../../issues/66)  | [3](../../issues/67)  | [4](../../issues/68)  |
-| [5](../../issues/69)  | [6](../../issues/70)  | [7](../../issues/71)  | [8](../../issues/72)  |
+| [1](../../discussions/313)  | [2](../../discussions/144)  | [3](../../discussions/145)  | [4](../../discussions/314)  |
+| [5](../../discussions/146)  | [6](../../discussions/147)  | [7](../../discussions/148)  | [8](../../discussions/149)  |
 ### Foglio 7
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/73)  | [2](../../issues/74)  | [3](../../issues/75)  | [4](../../issues/76)  |
-|   |  | [r3](../../issues/77)  | [r4](../../issues/77)  |
+| [1](../../discussions/315)  | [2](../../discussions/316)  | [3](../../discussions/150)  | [4](../../discussions/317)  |
+|   |  | [r3](../../discussions/151)  | [r4](../../discussions/152)  |
 ### Foglio 8
 |    |    |    |    |    |       
 |----|----|----|----|----|
-| [1](../../issues/83)  | [2](../../issues/84)  | [3](../../issues/85)  | [4](../../issues/86)  | [5](../../issues/87)  |
+| [1](../../discussions/153)  | [2](../../discussions/154)  | [3](../../discussions/318)  | [4](../../discussions/319)  | [5](../../discussions/155)  |
 ### Foglio 9
 |    |    |   
 |----|----|
-| [1](../../issues/88) | [2](../../issues/89) |
+| [1](../../discussions/324) | [2](../../discussions/325) |
 ### Foglio 10
 |    |    |    |    |    |       
 |----|----|----|----|----|
-| [1](../../issues/90)  | [2](../../issues/91)  | [3](../../issues/92)  | [4](../../issues/93)  | [5](../../issues/94)  |
+| [1](../../discussions/326)  | [2](../../discussions/327)  | [3](../../discussions/328)  | [4](../../discussions/329)  | [5](../../discussions/330)  |
 ### Foglio 11
 |    |    |    |    |    |       
 |----|----|----|----|----|
-| [1](../../issues/95)  | [2](../../issues/96)  | [3](../../issues/97)  | [4](../../issues/98)  | [5](../../issues/99)  |
+| [1](../../discussions/331)  | [2](../../discussions/332)  | [3](../../discussions/333)  | [4](../../discussions/334)  | [5](../../discussions/335)  |
 ### Foglio 12
 |    |    |    |    |    |    |      
 |----|----|----|----|----|----|
-| [1](../../issues/100)  | [2](../../issues/101)  | [3](../../issues/102)  | [4](../../issues/103)  | [5](../../issues/104)  | [6](../../issues/105)  |
-| [7](../../issues/106)  | [8](../../issues/107)  | [9](../../issues/108)  | [10](../../issues/109)  | [11](../../issues/110)  | [12](../../issues/111)  |
+| [1](../../discussions/336)  | [2](../../discussions/337)  | [3](../../discussions/338)  | [4](../../discussions/269)  | [5](../../discussions/270)  | [6](../../discussions/271)  |
+| [7](../../discussions/272)  | [8](../../discussions/273)  | [9](../../discussions/274)  | [10](../../discussions/275)  | [11](../../discussions/276)  | [12](../../discussions/277)  |
 ### Foglio 13
 |    |    |    |    |         
 |----|----|----|----|
-| [1](../../issues/112)  | [2](../../issues/113)  | [3](../../issues/114)  | [4](../../issues/115)  | 
+| [1](../../discussions/278)  | [2](../../discussions/279)  | [3](../../discussions/280)  | [4](../../discussions/281)  | 
 ### Foglio 14
 |    |    |    |     
 |----|----|----|
-| [1](../../issues/116)  | [2](../../issues/117)  | [3](../../issues/118)  |
+| [1](../../discussions/281)  | [2](../../discussions/283)  | [3](../../discussions/284)  |
 ### Foglio 15
 |    |    |    |    |    |       
 |----|----|----|----|----|
-| [1](../../issues/123)  | [2](../../issues/124)  | [3](../../issues/125)  | [4](../../issues/126)  | [5](../../issues/127)  |
+| [1](../../discussions/285)  | [2](../../discussions/286)  | [3](../../discussions/287)  | [4](../../discussions/288)  | [5](../../discussions/289)  |
 ### Foglio 16
 |    |    |    |    |         
 |----|----|----|----|
-| [1](../../issues/132)  | [2](../../issues/133)  | [3](../../issues/134)  | [4](../../issues/135)  | 
+| [1](../../discussions/290)  | [2](../../discussions/291)  | [3](../../discussions/292)  | [4](../../discussions/293)  | 
 
 
 ## Esercitazioni
 ### Esercitazione 15 Novembre 2023
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/79)  | [2](../../issues/80)  | [3](../../issues/81)  | [4](../../issues/82)  |
+| [1](../../discussions/190)  | [2](../../discussions/192)  | [3](../../discussions/194)  | [4](../../discussions/195)  |
 ### Esercitazione 6 Dicembre 2023
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/119)  | [2](../../issues/120)  | [3](../../issues/121)  | [4](../../issues/122)  |
+| [1](../../discussions/339)  | [2](../../discussions/340)  | [3](../../discussions/341)  | [4](../../discussions/342)  |
 ### Esercitazione 13 Dicembre 2023
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/128)  | [2](../../issues/129)  | [3](../../issues/130)  | [4](../../issues/131)  |
+| [1](../../discussions/320)  | [2](../../discussions/321)  | [3](../../discussions/322)  | [4](../../discussions/323)  |
 
 ## Esercizi del Libro
 ### Capitolo 1
 
 |    |    |    | 
 |----|----|----|
-|[1.1.1-1.1.5](../../issues/09) |[1.2.1](../../issues/10) | [1.2.2](../../issues/11) |
-| [1.4.2](../../issues/12) |[1.4.3](../../issues/13) |[1.4.4](../../issues/14) |
+|[1.1.1-1.1.5](../../discussions/137) |[1.2.1](../../discussions/138) | [1.2.2](../../discussions/163) |
+| [1.4.2](../../discussions/139) |[1.4.3](../../discussions/140) |[1.4.4](../../discussions/141) |
 
 ## Esercizi assegnati a Lezione
 ### Lezione 4
 |    |    |   
 |----|----|
-| [1](../../issues/16) | [2](../../issues/17) | 
+| [1](../../discussions/165) | [2](../../discussions/173) | 
 ### Lezione 5
 |    |   
 |----|
-| [1](../../issues/18)| 
+| [1](../../discussions/164)| 
 ### Lezione 8
 |    |    |    |    |    
 |----|----|----|----|
-| [1](../../issues/27)  | [2](../../issues/28)  | [3](../../issues/29)  | [4](../../issues/30)  |
-| [5](../../issues/31)  | [6](../../issues/32)  | [7](../../issues/33)  |  |
+| [1](../../discussions/172)  | [2](../../discussions/174)  | [3](../../discussions/176)  | [4](../../discussions/178)  |
+| [5](../../discussions/179)  | [6](../../discussions/181)  | [7](../../discussions/183)  |  |
