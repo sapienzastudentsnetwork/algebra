@@ -22,6 +22,12 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |----|----|----|
 | [15 Novembre 2023](../../discussions?discussions_q=category%3A"15+Novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=category%3A"6+Dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=category%3A"13+Dicembre+2023")  |
 
+### Esami Passati
+| Anno |    |    | | | | | |
+|----|----|----|----|----|----|----|----|
+| **22/23** | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2023")| [Febbraio](../../discussions?discussions_q=label%3A"13+febbraio+2023") | [Marzo](../../discussions?discussions_q=label%3A"31-marzo+2023")|[Giugno](../../discussions?discussions_q=label%3A"16+giugno+2023") | [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2023") | [Settembre](../../discussions?discussions_q=label%3A"6+settembre+2023") | [Ottobre](../../discussions?discussions_q=label%3A"ottobre+2023") |
+| **23/24** | |    | | | | | |
+
 ## Esercizi del Libro
 ### Capitolo 1
 
