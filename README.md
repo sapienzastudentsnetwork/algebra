@@ -20,7 +20,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Esercitazioni
 |    |    |    |
 |----|----|----|
-| [15 Novembre 2023](../../discussions?discussions_q=category%3A"15+Novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=category%3A"6+Dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=category%3A"13+Dicembre+2023")  |
+| [15 Novembre 2023](../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023")  |
 
 ### Esami Passati
 | Anno |    |    | | | | | |
