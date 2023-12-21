@@ -18,9 +18,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [1](../../discussions?discussions_q=category%3A"01") | [2](../../discussions?discussions_q=category%3A"02") | [3](../../discussions?discussions_q=category%3A"03") | [4](../../discussions?discussions_q=category%3A"04") | [5](../../discussions?discussions_q=category%3A"05") | [6](../../discussions?discussions_q=category%3A"06") | [7](../../discussions?discussions_q=category%3A"07") | [8](../../discussions?discussions_q=category%3A"08") | [9](../../discussions?discussions_q=category%3A"09") | [10](../../discussions?discussions_q=category%3A"10") | [11](../../discussions?discussions_q=category%3A"11") | [12](../../discussions?discussions_q=category%3A"12") | [13](../../discussions?discussions_q=category%3A"13") | [14](../../discussions?discussions_q=category%3A"14") | [15](../../discussions?discussions_q=category%3A"15") | [16](../../discussions?discussions_q=category%3A"16") |
 
 ### Esercitazioni
-|    |    |    |
-|----|----|----|
-| [15 Novembre 2023](../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023")  |
+|    |    |    |    |
+|----|----|----|----|
+| [15 Novembre 2023](../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023")  | [20 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+20+dicembre+2023")
 
 ### Esami Passati
 | Anno |    |    | | | | | |
