@@ -13,9 +13,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ## Collegamenti rapidi
 
 ### Fogli di esercizi
-|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| [1](../../discussions?discussions_q=category%3A"01") | [2](../../discussions?discussions_q=category%3A"02") | [3](../../discussions?discussions_q=category%3A"03") | [4](../../discussions?discussions_q=category%3A"04") | [5](../../discussions?discussions_q=category%3A"05") | [6](../../discussions?discussions_q=category%3A"06") | [7](../../discussions?discussions_q=category%3A"07") | [8](../../discussions?discussions_q=category%3A"08") | [9](../../discussions?discussions_q=category%3A"09") | [10](../../discussions?discussions_q=category%3A"10") | [11](../../discussions?discussions_q=category%3A"11") | [12](../../discussions?discussions_q=category%3A"12") | [13](../../discussions?discussions_q=category%3A"13") | [14](../../discussions?discussions_q=category%3A"14") | [15](../../discussions?discussions_q=category%3A"15") | [16](../../discussions?discussions_q=category%3A"16") |
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| [1](../../discussions?discussions_q=category%3A"01") | [2](../../discussions?discussions_q=category%3A"02") | [3](../../discussions?discussions_q=category%3A"03") | [4](../../discussions?discussions_q=category%3A"04") | [5](../../discussions?discussions_q=category%3A"05") | [6](../../discussions?discussions_q=category%3A"06") | [7](../../discussions?discussions_q=category%3A"07") | [8](../../discussions?discussions_q=category%3A"08") | [9](../../discussions?discussions_q=category%3A"09") | [10](../../discussions?discussions_q=category%3A"10") | [11](../../discussions?discussions_q=category%3A"11") | [12](../../discussions?discussions_q=category%3A"12") | [13](../../discussions?discussions_q=category%3A"13") | [14](../../discussions?discussions_q=category%3A"14") | [15](../../discussions?discussions_q=category%3A"15") | [16](../../discussions?discussions_q=category%3A"16") | [17](../../discussions?discussions_q=category%3A"17") |
 
 ### Esercitazioni
 |    |    |    |    |
