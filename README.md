@@ -25,8 +25,8 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Esami Passati
 | Anno |    |    | | | | | |
 |----|----|----|----|----|----|----|----|
-| **22/23** | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2023")| [Febbraio](../../discussions?discussions_q=label%3A"13+febbraio+2023") | [Marzo](../../discussions?discussions_q=label%3A"31+marzo+2023")|[Giugno](../../discussions?discussions_q=label%3A"16+giugno+2023") | [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2023") | [Settembre](../../discussions?discussions_q=label%3A"6+settembre+2023") | [Ottobre](../../discussions?discussions_q=label%3A"ottobre+2023") |
-| **23/24** | [Prova](../../discussions?discussions_q=label%3A"prova+30+dicembre+2023") |    | | | | | |
+| **22/23** | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2023+[A/L]")| [Febbraio](../../discussions?discussions_q=label%3A"13+febbraio+2023+[A/L]") | [Marzo](../../discussions?discussions_q=label%3A"31+marzo+2023+[A/L]")|[Giugno](../../discussions?discussions_q=label%3A"16+giugno+2023+[A/L]") | [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2023+[A/L]") | [Settembre](../../discussions?discussions_q=label%3A"6+settembre+2023+[A/L]") | [Ottobre](../../discussions?discussions_q=label%3A"ottobre+2023+[A/L]") |
+| **23/24** | [Prova](../../discussions?discussions_q=label%3A"prova+30+dicembre+2023+[A/L]") |    | | | | | |
 
 ## Esercizi del Libro
 ### Capitolo 1
