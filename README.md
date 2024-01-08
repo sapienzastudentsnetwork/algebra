@@ -23,10 +23,11 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [15 Novembre 2023](../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023")  | [6 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023")  | [13 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023")  | [20 Dicembre 2023](../../discussions?discussions_q=label%3A"esercitazione+20+dicembre+2023")
 
 ### Esami Passati
-| Anno |    |    | | | | | |
-|----|----|----|----|----|----|----|----|
-| **22/23** | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2023+[A/L]")| [Febbraio](../../discussions?discussions_q=label%3A"13+febbraio+2023+[A/L]") | [Marzo](../../discussions?discussions_q=label%3A"31+marzo+2023+[A/L]")|[Giugno](../../discussions?discussions_q=label%3A"16+giugno+2023+[A/L]") | [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2023+[A/L]") | [Settembre](../../discussions?discussions_q=label%3A"6+settembre+2023+[A/L]") | [Ottobre](../../discussions?discussions_q=label%3A"ottobre+2023+[A/L]") |
-| **23/24** | [Prova](../../discussions?discussions_q=label%3A"prova+30+dicembre+2023+[A/L]") |    | | | | | |
+| Anno | Canale | Docente |   |    | | | | | | |
+|----|----|----|----|----|----|----|----|----|----|----|
+| **21/22** | **[M/Z]** | Papi | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2022+[M/Z]") | [Febbraio](../../discussions?discussions_q=label%3A"17+febbraio+2022+[M/Z]") |[Marzo](../../discussions?discussions_q=label%3A"24+marzo+2022+[M/Z]") | [Maggio](../../discussions?discussions_q=label%3A"30+maggio+2022+[M/Z]") | [Giugno](../../discussions?discussions_q=label%3A"23+giugno+2022+[M/Z]")| [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2022+[M/Z]") | [Settembre](../../discussions?discussions_q=label%3A"16+settembre+2022+[M/Z]") | [Ottobre](../../discussions?discussions_q=label%3A"24+ottobre+2022+[M/Z]") |
+| **22/23** | **[A/L]** | Bandiera | [Gennaio](../../discussions?discussions_q=label%3A"27+gennaio+2023+[A/L]")| [Febbraio](../../discussions?discussions_q=label%3A"13+febbraio+2023+[A/L]") | [Marzo](../../discussions?discussions_q=label%3A"31+marzo+2023+[A/L]")|[Giugno](../../discussions?discussions_q=label%3A"16+giugno+2023+[A/L]") | [Luglio](../../discussions?discussions_q=label%3A"14+luglio+2023+[A/L]") | [Settembre](../../discussions?discussions_q=label%3A"6+settembre+2023+[A/L]") | [Ottobre](../../discussions?discussions_q=label%3A"ottobre+2023+[A/L]") | |
+| **23/24** | **[A/L]** | Piazza | [Prova](../../discussions?discussions_q=label%3A"prova+30+dicembre+2023+[A/L]") |    | | | | | | |
 
 ## Esercizi del Libro
 ### Capitolo 1
