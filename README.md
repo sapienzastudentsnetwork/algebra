@@ -1,4 +1,4 @@
-# Algebra [A.A. 2023-2024]
+# Algebra
 
 ## Introduzione
 
