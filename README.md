@@ -9,8 +9,8 @@
 ## 🚀 Inizia subito
 
 Scegli un Canale di Insegnamento per iniziare subito ad aggiungere o ad esplorare Esercizi e Soluzioni
-- Proff. [Gabriele **Viaggi** e Giacomo **Cherubini** (**A-L**)](viaggi/README.md#aa-202425-viaggi---cherubini-al)
-- Prof. [Federico **Pellarin** (**M-Z**)](pellarin/README.md#aa-202425-pellarin-mz)
+- **Proff.** [Gabriele **Viaggi** e Giacomo **Cherubini** (**A-L**)](viaggi/README.md#aa-202425-viaggi---cherubini-al)
+- **Prof.** [Federico **Pellarin** (**M-Z**)](pellarin/README.md#aa-202425-pellarin-mz)
 
 Di seguito anche alcuni professori di Anni Accademici precedenti
 - [A.A. 2022/23] **Prof.** Ruggero [**Bandiera (A/L)**](bandiera/README.md#aa-202223-bandiera-al)
