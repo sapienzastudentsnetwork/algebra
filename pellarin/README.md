@@ -31,10 +31,10 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Traccia di Esame
 
-| Anno      |                                                                                 |    | | | | |
-|-----------|---------------------------------------------------------------------------------|----|-|-|-|-|
-| **23/24** | [Prova](../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M/Z]") |    | | | | |
+| Anno      |                                                                                    |    | | | | |
+|-----------|------------------------------------------------------------------------------------|----|-|-|-|-|
+| **23/24** | [Prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M/Z]") |    | | | | |
 
 ## 🗃 Risorse utili
 
-- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M/> dell'A.A. 2024/25
+- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M/Z dell'A.A. 2024/25
