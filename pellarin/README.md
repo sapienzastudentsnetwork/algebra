@@ -15,8 +15,8 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-m-z) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
-- **Aglaia Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-- **Matteo** ([@rimaout](https://github.com/rimaout))
+- Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
+- Matteo **R.** ([@rimaout](https://github.com/rimaout))
 
 Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Belli](https://github.com/Elia-Belli), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
 
