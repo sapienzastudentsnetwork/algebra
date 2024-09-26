@@ -12,7 +12,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche nuovi [esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z) o [esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-m-z) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
 - **Aglaia Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
