@@ -3,8 +3,8 @@
 ## 🗂 Indice
 
 - [Gestori](#-gestori)
-- [Risorse utili](#-risorse-utili)
 - [Collegamenti rapidi](#-collegamenti-rapidi)
+- [Risorse utili](#-risorse-utili)
 
 ## ⚠️ Attenzione
 
@@ -22,10 +22,6 @@ Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Be
 
 Grazie mille in anticipo per il tuo contributo 🙌
 
-## 🗃 Risorse utili
-
-- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M/> dell'A.A. 2024/25
-
 ## 🔗 Collegamenti rapidi
 
 ### Filtri per Tipologia (M/Z)
@@ -38,3 +34,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 | Anno      |                                                                                 |    | | | | |
 |-----------|---------------------------------------------------------------------------------|----|-|-|-|-|
 | **23/24** | [Prova](../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M/Z]") |    | | | | |
+
+## 🗃 Risorse utili
+
+- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M/> dell'A.A. 2024/25
