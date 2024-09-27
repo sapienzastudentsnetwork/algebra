@@ -33,7 +33,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 | Anno      |                                                                                    |    | | | | |
 |-----------|------------------------------------------------------------------------------------|----|-|-|-|-|
-| **23/24** | [Prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M/Z]") |    | | | | |
+| **23/24** | [Prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M/Z]") | [15 gennaio](../../../discussions?discussions_q=label%3A"15+gennaio+2024+[M/Z]") | [22 gennaio](../../../discussions?discussions_q=label%3A"22+gennaio+2024+[M/Z]") | [febbraio](../../../discussions?discussions_q=label%3A"13+febbraio+2024+[M/Z]") | [aprile](../../../discussions?discussions_q=label%3A"17+aprile+2024+[M/Z]") | [giugno](../../../discussions?discussions_q=label%3A"3+giugno+2024+[M/Z]") |
 
 ## 🗃 Risorse utili
 
