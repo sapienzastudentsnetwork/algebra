@@ -28,8 +28,8 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Tipologia (A/L)
 
-- [Esami](../../../discussions/categories/esami-a-l)
 - [Esercizi ed esercitazioni](../../../discussions/categories/esercizi-a-l)
+- [Esami](../../../discussions/categories/esami-a-l)
 
 ### Filtri per Foglio di Esercizi
 
