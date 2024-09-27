@@ -17,7 +17,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-a-l) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte A-L in particolare, è gestito dai seguenti colleghi:
-- Emanuele  **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) [[Telegram](https://t.me/Rurik_D)]
+- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) [[Telegram](https://t.me/Rurik_D)]
 - Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) [[Telegram](https://t.me/GiusTmp11)]
 
 Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Belli](https://github.com/Elia-Belli), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
@@ -28,10 +28,14 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Tipologia (A/L)
 
-- [Esercizi d'esame](../../../discussions/categories/esami-a-l)
-- [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
-- [Esercitazioni](../../../discussions/categories/esercitazioni-a-l)
-- [Altri esercizi](../../../discussions/categories/altri-esercizi-a-l)
+- [Esami](../../../discussions/categories/esami-a-l)
+- [Esercizi ed esercitazioni](../../../discussions/categories/esercizi-a-l)
+
+### Filtri per Foglio di Esercizi
+
+|                                                                               |
+|-------------------------------------------------------------------------------|
+| [1](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+1")  |
 
 ### Filtri per Traccia di Esame
 
@@ -41,13 +45,18 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### A.A. 2023/24
 
+### Filtri per Tipologia (A/L)
+
+- [Esami](../../../discussions/categories/esami-viaggi-piazza)
+- [Esercizi ed esercitazioni](../../../discussions/categories/esercizi-viaggi-piazza)
+
 #### Filtri per Esercitazione
 
 |                                                                                                 |                                                                                               |                                                                                                 |                                                                                                 |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [15 Novembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023") | [6 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023") | [13 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023") | [20 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+20+dicembre+2023") |
 
-#### Filtri per Scheda di Esercizi
+#### Filtri per Foglio di Esercizi
 
 |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
