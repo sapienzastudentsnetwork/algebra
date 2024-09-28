@@ -38,6 +38,12 @@ Grazie mille in anticipo per il tuo contributo 🙌
 | [1](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+1)  | [1](../../../discussions/462) - [2](../../../discussions/463) - [3](../../../discussions/464) - [4](../../../discussions/465) - [5](../../../discussions/466) - [6](../../../discussions/467) - [7](../../../discussions/468) - [8](../../../discussions/469) - [9](../../../discussions/470) - [10](../../../discussions/471) - [11](../../../discussions/472) - [12](../../../discussions/473)  |
 
 
+### 📝 Tracce d'esame
+
+| Data |
+|------|
+|      |
+
 ### ❗ Risorse utili
 
 - **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25) >> contiene le informazioni del corso, il programma e il registro delle lezioni per il canale A/L dell'A.A. 2024/2025
