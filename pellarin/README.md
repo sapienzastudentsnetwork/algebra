@@ -29,6 +29,12 @@ Grazie mille in anticipo per il tuo contributo 🙌
 - [Esercizi d'esame](../../../discussions/categories/esami-m-z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
 
+### Filtri per Foglio di Esercizi
+
+|                                                                               |
+|-------------------------------------------------------------------------------|
+| [1](../../../discussions?discussions_q=label%3A"[M/Z]+(2024%2F25)+Foglio+1")  |
+
 ### Filtri per Traccia di Esame
 
 | Anno      |                                                                                    |    | | | | |
