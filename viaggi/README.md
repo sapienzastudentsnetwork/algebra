@@ -49,7 +49,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 - **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25) >> contiene le informazioni del corso, il programma e il registro delle lezioni per il canale A/L dell'A.A. 2024/2025
 
 
-
+#
 ## 🥈 A.A. 2023/24
 
 ### 📚 Filtri per Tipologia (A/L)
