@@ -2,10 +2,9 @@
 
 ## 🗂 Indice
 
-- [Gestori](#-gestori)
+- [Gestori](#%EF%B8%8F-gestori)
 - [A.A. 2024/25](#-aa-202425)
 - [A.A. 2023/24](#-aa-202324)
-
 
 ## ⚠️ Attenzione
 
