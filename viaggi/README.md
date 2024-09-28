@@ -3,9 +3,8 @@
 ## 🗂 Indice
 
 - [Gestori](#-gestori)
-- [Collegamenti rapidi](#-collegamenti-rapidi)
-- [A.A. 2024/25](#-A.A._2024/25)
-- [A.A. 2023/24](#-A.A._2023/24)
+- [A.A. 2024/25](#-A.A.-2024/25)
+- [A.A. 2023/24](#-A.A.-2023/24)
 
 ## ⚠️ Attenzione
 
