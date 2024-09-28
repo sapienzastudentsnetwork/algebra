@@ -4,9 +4,8 @@
 
 - [Gestori](#-gestori)
 - [Collegamenti rapidi](#-collegamenti-rapidi)
-- [Risorse utili](#-risorse-utili)
-- [Esercizi dal Libro](#esercizi-dal-libro)
-- [Esercizi assegnati a Lezione](#esercizi-assegnati-a-lezione)
+- [A.A. 2024/25](#-A.A._2024/25)
+- [A.A. 2023/24](#-A.A._2023/24)
 
 ## ⚠️ Attenzione
 
@@ -37,7 +36,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 |                      Foglio n°                                   |                      Esercizio n°                                   |
 |:-------------------------------------------------------------------------------:|:------------:|
-| [1](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+1")  | [1](../../../discussions/462") - [2](../../../discussions/463") - [3](../../../discussions/464") - [4](../../../discussions/465") - [5](../../../discussions/466") - [6](../../../discussions/467") - [7](../../../discussions/468") - [8](../../../discussions/469") - [9](../../../discussions/470") - [10](../../../discussions/471") - [11](../../../discussions/472") - [12](../../../discussions/473")  |
+| [1](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+1)  | [1](../../../discussions/462) - [2](../../../discussions/463) - [3](../../../discussions/464) - [4](../../../discussions/465) - [5](../../../discussions/466) - [6](../../../discussions/467) - [7](../../../discussions/468) - [8](../../../discussions/469) - [9](../../../discussions/470) - [10](../../../discussions/471) - [11](../../../discussions/472) - [12](../../../discussions/473)  |
 
 
 ### ❗ Risorse utili
