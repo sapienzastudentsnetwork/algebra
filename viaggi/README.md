@@ -37,6 +37,8 @@ Grazie mille in anticipo per il tuo contributo 🙌
 |:-------------------------------------------------------------------------------:|:------------:|
 | [1](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+1)  | [1](../../../discussions/462) - [2](../../../discussions/463) - [3](../../../discussions/464) - [4](../../../discussions/465) - [5](../../../discussions/466) - [6](../../../discussions/467) - [7](../../../discussions/468) - [8](../../../discussions/469) - [9](../../../discussions/470) - [10](../../../discussions/471) - [11](../../../discussions/472) - [12](../../../discussions/473)  |
 
+| [2](../../../discussions?discussions_q=label%3A"[A-L]+(2024%2F25)+Foglio+2)  | [1](../../../discussions/480) - [2](../../../discussions/481) - [3](../../../discussions/482) - [4](../../../discussions/483) - [5](../../../discussions/484) - [6](../../../discussions/485) - [7](../../../discussions/486) - [8](../../../discussions/487) - [9](../../../discussions/488) - [10](../../../discussions/489)  |
+
 
 ### 📝 Tracce d'esame
 
