@@ -4,6 +4,8 @@
 
 - [Google Group](https://groups.google.com/a/studenti.uniroma1.it/g/tutorato-algebra) » per aggiornamenti dalla Tutor del corso
 
+  - ℹ️ Accedere con l'account Google Sapienza (@studenti.uniroma1.it)
+
 - [Drive](https://drive.google.com/drive/folders/1PDDv9tr4jtXcp68FIcTE0s9bMLHn_Ok-?usp=sharing) » per il materiale del tutoraggio
 
 ## 👩‍🏫 Lezioni
