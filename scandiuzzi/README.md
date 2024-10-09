@@ -10,7 +10,7 @@
 
 ## 👩‍🏫 Lezioni
 
-### 8 ottobre 2024 (`appunti_24_10_08.pdf`)
+### 8 ottobre 2024 ([appunti_24_10_08.pdf](https://drive.google.com/file/d/1rKMr5lQv76uaqbygLX0wX8YwXBTdYP5t/view?usp=drive_link))
 
 |   |   |   |   |
 |---|---|---|---|
