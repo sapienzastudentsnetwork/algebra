@@ -12,6 +12,6 @@
 
 ### 8 ottobre 2024 (`appunti_24_10_08.pdf`)
 
-|               |                |                |
-| ------------- | -------------- | -------------- |
-| [ES 8 Foglio 1](https://github.com/sapienzastudentsnetwork/algebra/discussions/474) | [ES 11 Foglio 2](https://github.com/sapienzastudentsnetwork/algebra/discussions/496) | [ES funz. iniettive e suriettive](https://github.com/sapienzastudentsnetwork/algebra/discussions/497) |
+|   |   |   |   |
+|---|---|---|---|
+| [ES 8 Foglio 1](https://github.com/sapienzastudentsnetwork/algebra/discussions/474) | [ES 11 Foglio 2](https://github.com/sapienzastudentsnetwork/algebra/discussions/496) | [ES funz. iniettive e suriettive](https://github.com/sapienzastudentsnetwork/algebra/discussions/497) | [ES induzione](https://github.com/sapienzastudentsnetwork/algebra/discussions/498) |
