@@ -1,4 +1,4 @@
-# [A.A. 2024/25] Scandiuzzi (Tutor)
+# [A.A. 2024/25] Elisa Scandiuzzi (Tutor)
 
 ## 🗃 Risorse utili
 
