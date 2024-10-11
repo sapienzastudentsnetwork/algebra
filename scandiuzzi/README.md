@@ -14,4 +14,10 @@
 
 |   |   |   |   |
 |---|---|---|---|
-| [ES 8 Foglio 1](https://github.com/sapienzastudentsnetwork/algebra/discussions/474) | [ES 11 Foglio 2](https://github.com/sapienzastudentsnetwork/algebra/discussions/496) | [ES funz. iniettive e suriettive](https://github.com/sapienzastudentsnetwork/algebra/discussions/497) | [ES induzione](https://github.com/sapienzastudentsnetwork/algebra/discussions/498) |
+| [ES 8 Foglio 1 (M-Z)](https://github.com/sapienzastudentsnetwork/algebra/discussions/474) | [ES 11 Foglio 2 (M-Z)](https://github.com/sapienzastudentsnetwork/algebra/discussions/496) | [ES funz. iniettive e suriettive](https://github.com/sapienzastudentsnetwork/algebra/discussions/497) | [ES induzione](https://github.com/sapienzastudentsnetwork/algebra/discussions/498) |
+
+### 9 ottobre 2024 ([appunti_24_10_09.pdf](https://drive.google.com/file/d/1tqiXXi2WFl-N2J1HJcQ47xS_EOnubLaC/view?usp=drive_link))
+
+|   |   |   |   |
+|---|---|---|---|
+| [ES 1 Foglio 2 (A-L)](https://github.com/sapienzastudentsnetwork/algebra/discussions/480) | [ES Relazioni, 7.16 libro](https://github.com/sapienzastudentsnetwork/algebra/discussions/505) | [ES 2 Foglio 2 (A-L)](https://github.com/sapienzastudentsnetwork/algebra/discussions/481) | [ES Anelli, 24.18 libro](https://github.com/sapienzastudentsnetwork/algebra/discussions/506) |
