@@ -28,7 +28,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### 📚 Filtri per Tipologia (A/L)
 
-- [Esercizi](../../../discussions/categories/esercizi-a-l)
+- [Esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created)
 - [Esami](../../../discussions/categories/esami-a-l)
 
 ### 📝 Fogli di Esercizi
