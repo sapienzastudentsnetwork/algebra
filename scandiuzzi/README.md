@@ -21,3 +21,10 @@
 |   |   |   |   |
 |---|---|---|---|
 | [ES 1 Foglio 2 (A-L)](https://github.com/sapienzastudentsnetwork/algebra/discussions/480) | [ES Relazioni, 7.16 libro](https://github.com/sapienzastudentsnetwork/algebra/discussions/505) | [ES 2 Foglio 2 (A-L)](https://github.com/sapienzastudentsnetwork/algebra/discussions/481) | [ES Anelli, 24.18 libro](https://github.com/sapienzastudentsnetwork/algebra/discussions/506) |
+
+### 15 ottobre 2024 ([appunti_24_10_15.pdf](https://drive.google.com/file/d/1vXr7x2pImuO8ojMXd2dh6cKUcj4e1hBZ/view?usp=drive_link))
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [ES MCD](https://github.com/sapienzastudentsnetwork/algebra/discussions/526) | [ES eq. diofantee](https://github.com/sapienzastudentsnetwork/algebra/discussions/527) | [ES 4 esame 22/01/24 Pellarin](https://github.com/sapienzastudentsnetwork/algebra/discussions/445) | [ES congruenza mod n](https://github.com/sapienzastudentsnetwork/algebra/discussions/528) | [ES 18 Foglio 3 (M-Z)](https://github.com/sapienzastudentsnetwork/algebra/discussions/516)
+
