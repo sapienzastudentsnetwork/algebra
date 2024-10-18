@@ -28,3 +28,8 @@
 |---|---|---|---|---|
 | [ES MCD](https://github.com/sapienzastudentsnetwork/algebra/discussions/526) | [ES eq. diofantee](https://github.com/sapienzastudentsnetwork/algebra/discussions/527) | [ES 4 esame 22/01/24 Pellarin](https://github.com/sapienzastudentsnetwork/algebra/discussions/445) | [ES congruenza mod n](https://github.com/sapienzastudentsnetwork/algebra/discussions/528) | [ES 18 Foglio 3 (M-Z)](https://github.com/sapienzastudentsnetwork/algebra/discussions/516)
 
+### 16 ottobre 2024 ([appunti_24_10_16.pdf](https://drive.google.com/file/d/1wmjlnk-vp7-oEuBwF3pLh_vpjs9jsJti/view?usp=drive_link))
+
+|   |   |   |
+|---|---|---|
+| [ES eq. diofantee](https://github.com/sapienzastudentsnetwork/algebra/discussions/529) | [ES congruenza mod n](https://github.com/sapienzastudentsnetwork/algebra/discussions/530) | [ES inversi](https://github.com/sapienzastudentsnetwork/algebra/discussions/531)
