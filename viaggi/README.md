@@ -41,6 +41,14 @@ Grazie mille in anticipo per il tuo contributo 🙌
 | [4](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created+label%3A"%5BA-L%5D+%282024%2F25%29+Foglio+4")  | [1](../../../discussions/519) - [2](../../../discussions/520) - [3](../../../discussions/521) - [4](../../../discussions/522) - [5](../../../discussions/523) - [6](../../../discussions/524) - [7](../../../discussions/525)  |
 
 
+### ✔ Soluzioni
+|                      Foglio n°                                   |
+|:----------------------------------------------------------------:|
+|[foglio 1](https://github.com/user-attachments/files/17488661/algebra-foglio1.soluzioni.pdf)|
+|[foglio 2](https://github.com/user-attachments/files/17488667/algebra-foglio2.soluzioni.pdf)|
+
+
+
 ### 📝 Tracce d'esame
 
 | Data |
