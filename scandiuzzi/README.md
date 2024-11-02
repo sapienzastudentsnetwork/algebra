@@ -33,3 +33,27 @@
 |   |   |   |
 |---|---|---|
 | [ES eq. diofantee](https://github.com/sapienzastudentsnetwork/algebra/discussions/529) | [ES congruenza mod n](https://github.com/sapienzastudentsnetwork/algebra/discussions/530) | [ES inversi](https://github.com/sapienzastudentsnetwork/algebra/discussions/531)
+
+### 22 ottobre 2024 ([appunti_24_10_22.pdf](https://drive.google.com/file/d/1-nnM2AYLZzebtKG3htJHpKOALDRPwRaq/view?usp=drive_link))
+
+|   |   |   |
+|---|---|---|
+| [ES eq. congruenziali](https://github.com/sapienzastudentsnetwork/algebra/discussions/550) | [ES 4 esame 13/02/24 Pellarin](https://github.com/sapienzastudentsnetwork/algebra/discussions/449) | [ES phi di Eulero](https://github.com/sapienzastudentsnetwork/algebra/discussions/551)
+
+### 23 ottobre 2024 ([appunti_24_10_23.pdf](https://drive.google.com/file/d/1-oT5tZq_mFWFYvdCw8TRVoGb-bYZdqOZ/view?usp=drive_link))
+
+|   |   |   |
+|---|---|---|
+| [ES anelli](https://github.com/sapienzastudentsnetwork/algebra/discussions/552) | [ES 8 foglio 2 Viaggi 2023/24](https://github.com/sapienzastudentsnetwork/algebra/discussions/171) | [ES 3 foglio 3 Viaggi 2023/24](https://github.com/sapienzastudentsnetwork/algebra/discussions/184)
+
+### 29 ottobre 2024 ([appunti_24_10_29.pdf](https://drive.google.com/file/d/1-tQAeLnj_XrtC9idXDhT624-hCgrkkrB/view?usp=drive_link))
+
+|   |   |
+|---|---|
+| [ES 4 esame 17/04/24 Pellarin](https://github.com/sapienzastudentsnetwork/algebra/discussions/461) | [ES teorema cinese del resto](https://github.com/sapienzastudentsnetwork/algebra/discussions/553) 
+
+### 30 ottobre 2024 ([appunti_24_10_30.pdf](https://drive.google.com/file/d/10f59qkUDuygzTnbpG-UO1XL4iUKgPhjX/view?usp=drive_link))
+
+|   |   |   |
+|---|---|---|
+| [ES questionario e prova in itinere 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/554) | [ES 11 foglio 4 Viaggi 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/229) | [ES divisione tra polinomi](https://github.com/sapienzastudentsnetwork/algebra/discussions/555)
