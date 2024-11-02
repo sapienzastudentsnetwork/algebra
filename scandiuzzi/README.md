@@ -56,4 +56,4 @@
 
 |   |   |   |
 |---|---|---|
-| [ES questionario e prova in itinere 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/554) | [ES 11 foglio 4 Viaggi 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/229) | [ES divisione tra polinomi](https://github.com/sapienzastudentsnetwork/algebra/discussions/555)
+| [ES questionario e prova in itinere 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/554) | [ES 11 foglio 4 Viaggi 2023](https://github.com/sapienzastudentsnetwork/algebra/discussions/299) | [ES divisione tra polinomi](https://github.com/sapienzastudentsnetwork/algebra/discussions/555)
