@@ -35,7 +35,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 |                                                                               | | | | | |
 |-------------------------------------------------------------------------------|-|-|-|-|-|
-| [1](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+1")  | [2](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+2")  |[3](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+3")  |[4](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+4")  |[5](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+5")  |
+| [1](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+1")  | [2](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+2")  |[3](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+3")  |[4](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+4")  |[5](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+5")  |[6](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+Foglio+6")  |
 
 [assegnati a lezione](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+lasciati+a+lezione")
 
