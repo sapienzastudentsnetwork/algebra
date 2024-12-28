@@ -42,9 +42,10 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Traccia di Esame
 
-| Anno      |                                                                                    |    | | | | | | | |
-|-----------|------------------------------------------------------------------------------------|----|-|-|-|-|-|-|-|
-| **23/24** | [prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M-Z]") |[prova itinere 2023](../../../discussions?discussions_q=label%3A"prova+in+itinere+2023+[M%2FZ]") |[demo itinere 2023](../../../discussions?discussions_q=label%3A"demo+prova+in+itinere+2023+[M-Z]")|  [15 gennaio](../../../discussions?discussions_q=label%3A"15+gennaio+2024+[M-Z]") | [22 gennaio](../../../discussions?discussions_q=label%3A"22+gennaio+2024+[M-Z]") | [febbraio](../../../discussions?discussions_q=label%3A"13+febbraio+2024+[M-Z]") | [aprile](../../../discussions?discussions_q=label%3A"17+aprile+2024+[M-Z]") | [giugno](../../../discussions?discussions_q=label%3A"3+giugno+2024+[M-Z]") | [luglio](../../../discussions?discussions_q=label%3A"17+luglio+2024+[M-Z]") |
+| Anno      |                                                                                    |    | | | | | | | | | |
+|-----------|------------------------------------------------------------------------------------|----|-|-|-|-|-|-|-|-|-|
+| **23/24** | [prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M-Z]") |[prova itinere 2023](../../../discussions?discussions_q=label%3A"prova+in+itinere+2023+[M%2FZ]") |[demo itinere 2023](../../../discussions?discussions_q=label%3A"demo+prova+in+itinere+2023+[M-Z]")|  [15 gennaio](../../../discussions?discussions_q=label%3A"15+gennaio+2024+[M-Z]") | [22 gennaio](../../../discussions?discussions_q=label%3A"22+gennaio+2024+[M-Z]") | [febbraio](../../../discussions?discussions_q=label%3A"13+febbraio+2024+[M-Z]") | [aprile](../../../discussions?discussions_q=label%3A"17+aprile+2024+[M-Z]") | [giugno](../../../discussions?discussions_q=label%3A"3+giugno+2024+[M-Z]") | [luglio](../../../discussions?discussions_q=label%3A"17+luglio+2024+[M-Z]") |[settembre](../../../discussions?discussions_q=label%3A"9+settembre+2024+[M-Z]") |[ottobre](../../../discussions?discussions_q=label%3A"18+ottobre+2024+[M-Z]") |
+
 
 
 ## 🗃 Risorse utili
