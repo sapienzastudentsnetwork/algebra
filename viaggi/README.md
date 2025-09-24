@@ -15,9 +15,9 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-a-l) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Precedentemente, nella sua parte A-L in particolare, questo forum è stato gestito dai seguenti colleghi:
-- Elia **Belli** (@Elia-Belli) {A.A. 2023/24}
-- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) {A.A. 2024/25}
-- Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) {A.A. 2024/25}
+- Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli/)) [A.A. 2023/24]
+- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) [A.A. 2024/25]
+- Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) [A.A. 2024/25]
 
 Li ringraziamo a nome dell'intera comunità per il lavoro svolto 💪
 
