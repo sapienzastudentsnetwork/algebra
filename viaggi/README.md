@@ -14,11 +14,12 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-a-l) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
-Attualmente, questo forum, nella sua parte A-L in particolare, è gestito dai seguenti colleghi:
-- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) [[Telegram](https://t.me/Rurik_D)]
-- Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) [[Telegram](https://t.me/GiusTmp11)]
+Precedentemente, nella sua parte A-L in particolare, questo forum è stato gestito dai seguenti colleghi:
+- Elia **Belli** (@Elia-Belli) {A.A. 2023/24}
+- Emanuele **D'Agostino** ([@Rurik-D](https://github.com/Rurik-D/)) {A.A. 2024/25}
+- Giuseppe **Borracci** ([@GiusTMP](https://github.com/GiusTMP)) {A.A. 2024/25}
 
-Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Belli](https://github.com/Elia-Belli), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
+Li ringraziamo a nome dell'intera comunità per il lavoro svolto 💪
 
 Grazie mille in anticipo per il tuo contributo 🙌
 
