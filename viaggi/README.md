@@ -45,9 +45,10 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### 📝 Tracce d'esame
 
-| Data | |
-|------|------|
-|[14 gennaio 2025](../../../discussions?discussions_q=label%3A"14+gennaio+2025+[A-L]") |[4 febbraio 2025](../../../discussions?discussions_q=label%3A"4+febbraio+2025+[A-L]") |
+| Data | | | | | |
+|------|------|-----|------|-----|-----|
+|[14 gennaio 2025](../../../discussions?discussions_q=label%3A"14+gennaio+2025+[A-L]") |[4 febbraio 2025](../../../discussions?discussions_q=label%3A"4+febbraio+2025+[A-L]") | [18 marzo 2025](../../../discussions?discussions_q=label%3A"18+marzo+2025+[A-L]") | [6 giugno 2025](../../../discussions?discussions_q=label%3A"6+giugno+2025+[A-L]") | [30 giugno 2025](../../../discussions?discussions_q=label%3A"30+giugno+2025+[A-L]") |[8 settembre 2025](../../../discussions?discussions_q=label%3A"8+settembre+2025+[A-L]") |
+
 
 ### ❗ Risorse utili
 
