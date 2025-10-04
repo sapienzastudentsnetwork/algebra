@@ -1,14 +1,207 @@
-# [A.A. 2024/25] Viaggi - Cherubini (A/L)
+<div align="center">
 
-## 🗂 Indice
+# Viaggi - Cherubini (A/L) [A.A. 2024/25]
 
-- [Gestori](#%EF%B8%8F-gestori)
-- [A.A. 2024/25](#-aa-202425)
-- [A.A. 2023/24](#-aa-202324)
+</div>
 
-## ⚠️ Attenzione
+> [!WARNING]
+> Questo forum di scambio e confronto di soluzioni agli [esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created) ed [esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-a-l) di Algebra assegnati dal prof. Gabriele **Viaggi** e dal prof. Giacomo **Cherubini** è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti [ufficiali](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25)!
+>
+> Sono presenti anche risorse (sempre inerenti ad [esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-viaggi-piazza), [esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-viaggi-piazza) ed esercitazioni) dell'A.A 2023/24, dove il corso è stato gestito dai professori Gabriele **Viaggi** e Paolo **Piazza**.
 
-Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegnati dal prof. Gabriele **Viaggi** e dal prof. Giacomo **Cherubini** è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <h3> Esami precedenti</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td align="center"> 2023 </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22esercitazione+15+novembre+2023%22"> 15 Novembre </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22esercitazione+6+dicembre+2023%22"> 6 Dicembre </a> 
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22esercitazione+13+dicembre+2023%22"> 13 Dicembre </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22esercitazione+20+dicembre+2023%22"> 20 Dicembre </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22prova+30+dicembre+2023+%5BA/L%5D%22"> 30 Dicembre </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td align="center">2024</td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%229+gennaio+2024+%5BA-L%5D%22"> 9 Gennaio </a> 
+          </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%2231+gennaio+2024+%5BA-L%5D%22"> 31 Gennaio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2211+novembre+2024+%5BA-L%5D%22"> 11 Novembre </a> - <a href="https://drive.google.com/file/d/1SdUqojUY-SylrSOnYNBwqqwrb4d2gixa/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2216+dicembre+2024+%5BA-L%5D%22"> 16 Dicembre </a> - <a href="https://drive.google.com/file/d/1dWzkUvXfARdo-zRvEKht67q8YCjArLeD/view"> soluzioni </a> </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td align="center"> 2025 </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%2214+gennaio+2025+%5BA-L%5D%22"> 14 Gennaio </a> - <a href="https://drive.google.com/file/d/1Fs9xj6rKGF0WX5C8AukUjZdefGp4whJ8/view"> soluzioni </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%224+febbraio+2025+%5BA-L%5D%22"> 4 Febbraio </a> - <a href="https://drive.google.com/file/d/1T0gOxGfLqKR2nvT7tgR7Dg5iFKpxatMl/view"> soluzioni </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2218+marzo+2025+%5BA-L%5D%22"> 18 Marzo </a> - <a href="https://drive.google.com/file/d/1EMHmaRAVk1U9LZH3B89FiJu8GknxQF6O/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%226+giugno+2025+%5BA-L%5D%22"> 6 Giugno </a> - <a href="https://drive.google.com/file/d/1NFT0sUCMJ8tsuFW_NIN1VKpxJBfrjLIh/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2230+giugno+2025+%5BA-L%5D%22"> 30 Giugno </a> - <a href="https://drive.google.com/file/d/1Cl-dR8KdPgCS2V7drpSeILRKMMZL3_YU/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%228+settembre+2025+%5BA-L%5D%22"> 8 Settembre </a> - <a href="https://drive.google.com/file/d/1PO2LZBdQucC4KOsX12sv9nPfSElyPvLI/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+        <tr>
+          <td align="center"> --- </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3> Fogli di Esercizi </h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td colspan="5" align="center"> 2023/24 </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+foglio+1+label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+1%22"> 1 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+2%22"> 2 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+3%22"> 3 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+4%22"> 4 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+5%22"> 5 </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+6%22"> 6 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+7%22"> 7 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+8%22"> 8 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+9%22"> 9 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+10%22"> 10 </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+11%22"> 11 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+12%22"> 12 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+13%22"> 13 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+14%22"> 14 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+15%22"> 15 </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+16%22"> 16 </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282023%2F24%29+Foglio+17%22"> 17 </a> </td>
+          <td align="center"> --- </td>
+          <td align="center"> --- </td>
+          <td align="center"> --- </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td colspan="3" align="center"> 2024/25 </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+foglio+1+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+1%22"> 1 </a> - <a href="https://drive.google.com/file/d/1oohrVUhdZmlYfZQlIrk-xiGubeRLhJVg/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+foglio+2+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+2%22"> 2 </a> - <a href="https://drive.google.com/file/d/1AYqaD89JwS9kGn3pJ4_ZpqHLOT-D3yIw/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+foglio+3+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+3%22"> 3 </a> - <a href="https://drive.google.com/file/d/1-L6M95Hj8nqX38J0BVsG3vn26l_xjfFg/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+foglio+4+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+4%22"> 4 </a> - <a href="https://drive.google.com/file/d/1cGkcgtcX07ZVmQHXQZJEkWQ-r6TwS4-7/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+5%22"> 5 </a> - <a href="https://drive.google.com/file/d/16Kz0D4NdH9bQiitGnSGNiTrehyobLUdk/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+6%22"> 6 </a> - <a href="https://drive.google.com/file/d/163BbVf77bu8eaKWJtsUopVKSGIcyZbmT/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+7%22"> 7 </a> - <a href="https://drive.google.com/file/d/1xUGhXkAreIz-OBJA_yN8CdyTNRBLPMJM/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+8%22"> 8 </a> - <a href="https://drive.google.com/file/d/1yA31vj06BMjnAisu0q3Pzoww82rh0Pk2/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+9%22"> 9 </a> - <a href="https://drive.google.com/file/d/1XQHTlkpEcGS4yifPFL0JB646SiLcGqR2/view"> soluzioni </a> </td>
+        </tr>
+        <tr>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+10%22"> 10 </a> - <a href="https://drive.google.com/file/d/186zf4lL8D69eeIABaqYqaF6VBwV47thU/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+11%22"> 11 </a> - <a href="https://drive.google.com/file/d/1yto1oo40Skf3uPolDpnJRWY5Q45cr-C6/view"> soluzioni </a> </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282024%2F25%29+Foglio+12%22"> 12 </a> - <a href="https://drive.google.com/file/d/18nVvI0gYeByEAkVcNP5kUb1sw35Z61Xd/view"> soluzioni </a> </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+> [!NOTE]
+> Ulteriori risorse presenti sono
+> - gli esercizi del [1° capitolo](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22Algebra.+Un+approccio+algoritmico%22) del libro Giulia Maria Piacentini Cattaneo, "Algebra. Un approccio algoritmico", ed. Zanichelli.
+>
+> - e gli esercizi assegnati durante la [4°](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+%5BA-L%5D+%282023%2F24%29+Lezione+label%3A%22lezione+4+2023%2F24+%5BA-L%5D%22), [5°](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22lezione+5+2023%2F24+%5BA-L%5D%22) e [8°](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22lezione+8+2023%2F24+%5BA-L%5D%22) lezione dell'A.A 2023/24
 
 ## 👷‍♀️ Gestori
 
@@ -22,95 +215,3 @@ Precedentemente, nella sua parte A-L in particolare, questo forum è stato gesti
 Li ringraziamo a nome dell'intera comunità per il lavoro svolto 💪
 
 Grazie mille in anticipo per il tuo contributo 🙌
-
-
-## 🥇 A.A. 2024/25
-
-
-### 📚 Filtri per Tipologia (A/L)
-
-- [Esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created)
-- [Esami](../../../discussions/categories/esami-a-l)
-
-### 📝 Fogli di Esercizi
-
-|                      Foglio n°                                   |                      Esercizio n°                                   |              Soluzioni            |
-|:-------------------------------------------------------------------------------:|:------------:|:------------:|
-| [1](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created+label%3A"%5BA-L%5D+%282024%2F25%29+Foglio+1")  | [1](../../../discussions/462) - [2](../../../discussions/463) - [3](../../../discussions/464) - [4](../../../discussions/465) - [5](../../../discussions/466) - [6](../../../discussions/467) - [7](../../../discussions/468) - [8](../../../discussions/469) - [9](../../../discussions/470) - [10](../../../discussions/471) - [11](../../../discussions/472) - [12](../../../discussions/473)  |[scarica](https://github.com/user-attachments/files/17488661/algebra-foglio1.soluzioni.pdf)|
-| [2](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created+label%3A"%5BA-L%5D+%282024%2F25%29+Foglio+2")  | [1](../../../discussions/480) - [2](../../../discussions/481) - [3](../../../discussions/482) - [4](../../../discussions/483) - [5](../../../discussions/484) - [6](../../../discussions/485) - [7](../../../discussions/486) - [8](../../../discussions/487) - [9](../../../discussions/488) - [10](../../../discussions/489)  |[scarica](https://github.com/user-attachments/files/17488667/algebra-foglio2.soluzioni.pdf)|
-| [3](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created+label%3A"%5BA-L%5D+%282024%2F25%29+Foglio+3")  | [1](../../../discussions/509) - [2](../../../discussions/510) - [3](../../../discussions/511) - [4](../../../discussions/512) - [5](../../../discussions/513) - [6](../../../discussions/514) - [7](../../../discussions/515)  |  |
-| [4](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created+label%3A"%5BA-L%5D+%282024%2F25%29+Foglio+4")  | [1](../../../discussions/519) - [2](../../../discussions/520) - [3](../../../discussions/521) - [4](../../../discussions/522) - [5](../../../discussions/523) - [6](../../../discussions/524) - [7](../../../discussions/525)  |  |
-
-
-
-### 📝 Tracce d'esame
-
-| Data | | | | | |
-|------|------|-----|------|-----|-----|
-|[14 gennaio 2025](../../../discussions?discussions_q=label%3A"14+gennaio+2025+[A-L]") |[4 febbraio 2025](../../../discussions?discussions_q=label%3A"4+febbraio+2025+[A-L]") | [18 marzo 2025](../../../discussions?discussions_q=label%3A"18+marzo+2025+[A-L]") | [6 giugno 2025](../../../discussions?discussions_q=label%3A"6+giugno+2025+[A-L]") | [30 giugno 2025](../../../discussions?discussions_q=label%3A"30+giugno+2025+[A-L]") |[8 settembre 2025](../../../discussions?discussions_q=label%3A"8+settembre+2025+[A-L]") |
-
-
-### ❗ Risorse utili
-
-- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25) >> contiene le informazioni del corso, il programma e il registro delle lezioni per il canale A/L dell'A.A. 2024/2025
-
-
-#
-## 🥈 A.A. 2023/24
-
-### 📚 Filtri per Tipologia (A/L)
-
-- [Esami](../../../discussions/categories/esami-viaggi-piazza)
-- [Esercizi ed esercitazioni](../../../discussions/categories/esercizi-viaggi-piazza)
-
-### Filtri per Esercitazione
-
-|                                                                                                 |                                                                                               |                                                                                                 |                                                                                                 |
-|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [15 Novembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+15+novembre+2023") | [6 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+6+dicembre+2023") | [13 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+13+dicembre+2023") | [20 Dicembre 2023](../../../discussions?discussions_q=label%3A"esercitazione+20+dicembre+2023") |
-
-### Filtri per Foglio di Esercizi
-
-|                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                              |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [1](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+1") | [2](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+2") | [3](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+3") | [4](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+4") | [5](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+5") | [6](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+6") | [7](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+7") | [8](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+8") | [9](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+9") | [10](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+10") | [11](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+11") | [12](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+12") | [13](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+13") | [14](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+14") | [15](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+15") | [16](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+16") | [17](../../../discussions?discussions_q=label%3A"[A-L]+(2023%2F24)+Foglio+17") |
-
-### Filtri per Traccia di Esame
-
-| Anno      | Docente       |                                                                                    |                                                                                |                                                                                  |                                                                          |                                                                          |                                                                               |                                                                         | |
-|-----------|---------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------|-|
-| **23/24** | Piazza/Viaggi | [Prova](../../../discussions?discussions_q=label%3A"prova+30+dicembre+2023+[A/L]") | [9 Gennaio](../../../discussions?discussions_q=label%3A"9+gennaio+2024+[A/L]") | [31 Gennaio](../../../discussions?discussions_q=label%3A"31+gennaio+2024+[A/L]") |                                                                          |                                                                          |                                                                               |                                                                         | |
-
-### 📖 Esercizi dal Libro
-
-### Capitolo 1
-
-|    |    |    | 
-|----|----|----|
-|[1.1.1-1.1.5](../../../discussions/137) |[1.2.1](../../../discussions/138) | [1.2.2](../../../discussions/163) |
-| [1.4.2](../../../discussions/139) |[1.4.3](../../../discussions/140) |[1.4.4](../../../discussions/141) |
-
-### 📝 Esercizi assegnati a Lezione (A.A. 2023/24)
-
-#### Lezione 4
-|    |    |   
-|----|----|
-| [1](../../../discussions/165) | [2](../../../discussions/173) | 
-
-#### Lezione 5
-|    |   
-|----|
-| [1](../../../discussions/164)| 
-
-#### Lezione 8
-|    |    |    |    |    
-|----|----|----|----|
-| [1](../../../discussions/172)  | [2](../../../discussions/174)  | [3](../../../discussions/176)  | [4](../../../discussions/178)  |
-| [5](../../../discussions/179)  | [6](../../../discussions/181)  | [7](../../../discussions/183)  |  |
-
-
-
-### ❗ Risorse utili
-
-- **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/piazza/alg-info-23-24.htm) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale A/L dell'A.A. 2023/2024
-- **Moodle del Corso** [[🌐]](https://elearning.uniroma1.it/course/view.php?id=17234) >> contiene gli annunci del corso per il canale A/L dell'A.A. 2023/2024
