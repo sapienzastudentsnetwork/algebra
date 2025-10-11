@@ -1,4 +1,4 @@
-# [A.A. 2024/25] Pellarin (M/Z)
+# [A.A. 2025/26] Pellarin (M-Z)
 
 ## 🗂 Indice
 
@@ -25,7 +25,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ## 🔗 Collegamenti rapidi
 
-### Filtri per Tipologia (M/Z)
+### Filtri per Tipologia (M-Z)
 
 - [Esercizi d'esame](../../../discussions/categories/esami-m-z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
@@ -41,14 +41,14 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Traccia di Esame
 
-| Anno      |                                                                                    |    | | | | | | | | | |
-|-----------|------------------------------------------------------------------------------------|----|-|-|-|-|-|-|-|-|-|
+| Anno      |                                                                                    | | | | | | | | | | |
+|-----------|------------------------------------------------------------------------------------|-|-|-|-|-|-|-|-|-|-|
 | **23/24** | [prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M-Z]") |[prova itinere 2023](../../../discussions?discussions_q=label%3A"prova+in+itinere+2023+[M%2FZ]") |[demo itinere 2023](../../../discussions?discussions_q=label%3A"demo+prova+in+itinere+2023+[M-Z]")|  [15 gennaio](../../../discussions?discussions_q=label%3A"15+gennaio+2024+[M-Z]") | [22 gennaio](../../../discussions?discussions_q=label%3A"22+gennaio+2024+[M-Z]") | [febbraio](../../../discussions?discussions_q=label%3A"13+febbraio+2024+[M-Z]") | [aprile](../../../discussions?discussions_q=label%3A"17+aprile+2024+[M-Z]") | [giugno](../../../discussions?discussions_q=label%3A"3+giugno+2024+[M-Z]") | [luglio](../../../discussions?discussions_q=label%3A"17+luglio+2024+[M-Z]") |[settembre](../../../discussions?discussions_q=label%3A"9+settembre+2024+[M-Z]") |[ottobre](../../../discussions?discussions_q=label%3A"18+ottobre+2024+[M-Z]") |
 | **24/25** | [gennaio](../../../discussions?discussions_q=label%3A"7+gennaio+2025+[M-Z]") |[febbraio](../../../discussions?discussions_q=label%3A"3+febbraio+2025+[M-Z]") |[marzo](../../../discussions?discussions_q=label%3A"18+marzo+2025+[M-Z]")|[giugno](../../../discussions?discussions_q=label%3A"10+giugno+2025+[M-Z]")|[luglio](../../../discussions?discussions_q=label%3A"7+luglio+2025+[M-Z]")
-
+| **25/26** | - | - | - | - | - | - | - | - | - | - | - |
 
 
 
 ## 🗃 Risorse utili
 
-- **Sito Web del Corso** [[🌐]](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M/Z dell'A.A. 2024/25
+- [**Sito Web del Corso**](https://sites.google.com/uniroma1.it/algebra-informatica-2023-2024/home-page) >> contiene le informazioni del corso, il programma e il diario delle lezioni per il canale M-Z dell'A.A. 2025/26

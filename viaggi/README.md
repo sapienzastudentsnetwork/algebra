@@ -1,11 +1,11 @@
 <div align="center">
 
-# Viaggi - Cherubini (A/L) [A.A. 2024/25]
+# Viaggi - Cherubini (A-L) [A.A. 2024/25]
 
 </div>
 
 > [!WARNING]
-> Questo forum di scambio e confronto di soluzioni agli [esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+category%3A"Esercizi+A-L"+sort%3Adate_created) ed [esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-a-l) di Algebra assegnati dal prof. Gabriele **Viaggi** e dal prof. Giacomo **Cherubini** è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti [ufficiali](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25)!
+> Questo forum di scambio e confronto di soluzioni agli [esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-viaggi-cherubini?discussions_q=is%3Aopen+category%3A"Esercizi+-+Viaggi%2FCherubini"+sort%3Adate_created) ed [esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-viaggi-cherubini) di Algebra assegnati dal prof. Gabriele **Viaggi** e dal prof. Giacomo **Cherubini** è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti [ufficiali](https://sites.google.com/uniroma1.it/gabriele-viaggi/teaching/algebra-ws-24-25)!
 >
 > Sono presenti anche risorse (sempre inerenti ad [esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-viaggi-piazza), [esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-viaggi-piazza) ed esercitazioni) dell'A.A 2023/24, dove il corso è stato gestito dai professori Gabriele **Viaggi** e Paolo **Piazza**.
 
@@ -50,7 +50,7 @@
         </tr>
         <tr>
           <td align="center">
-            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22prova+30+dicembre+2023+%5BA/L%5D%22"> 30 Dicembre </a>
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22prova+30+dicembre+2023+%5BA-L%5D%22"> 30 Dicembre </a>
           </td>
         </tr>
       </table>
@@ -205,7 +205,7 @@
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-a-l) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-viaggi-cherubini) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-viaggi-cherubini), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Precedentemente, nella sua parte A-L in particolare, questo forum è stato gestito dai seguenti colleghi:
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli/)) [A.A. 2023/24]

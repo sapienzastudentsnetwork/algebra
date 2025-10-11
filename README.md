@@ -9,10 +9,13 @@
 ## 🚀 Inizia subito
 
 Scegli un Canale di Insegnamento per iniziare subito ad aggiungere o ad esplorare Esercizi e Soluzioni
-- **Proff.** [Gabriele **Viaggi** e Giacomo **Cherubini** (**A-L**)](viaggi/README.md#aa-202425-viaggi---cherubini-al)
-- **Prof.** [Federico **Pellarin** (**M-Z**)](pellarin/README.md#aa-202425-pellarin-mz)
-- **Tutor** [Elisa **Scandiuzzi**](scandiuzzi/README.md#aa-202425-scandiuzzi-tutor)
 
-Di seguito anche alcuni professori di Anni Accademici precedenti
-- [A.A. 2022/23] **Prof.** Ruggero [**Bandiera (A/L)**](bandiera/README.md#aa-202223-bandiera-al)
-- [A.A. 2022/23] **Prof.** Paolo [**Papi (M/Z)**](papi/README.md#aa-202223-papi-mz)
+- [A.A. 2024/25] **Proff.** [Flavio **D'Alessandro** e Alberto **De Sole** (**A-L**)](dalessandro/README.md#aa-202526-dalessandro---de-sole-a-l)
+- **Prof.** [Federico **Pellarin** (**M-Z**)](pellarin/README.md#aa-202526-pellarin-mz)
+
+Di seguito anche alcuni professori e tutor di Anni Accademici precedenti
+- [A.A. 2022/23] **Prof.** Ruggero [**Bandiera (A-L)**](bandiera/README.md#aa-202223-bandiera-al)
+- [A.A. 2022/23] **Prof.** Paolo [**Papi (M-Z)**](papi/README.md#aa-202223-papi-mz)
+- [A.A. 2024/25] **Proff.** [Gabriele **Viaggi** e Giacomo **Cherubini** (**A-L**)](viaggi/README.md#aa-202425-viaggi---cherubini-al)
+- [A.A. 2024/25] **Tutor** [Elisa **Scandiuzzi**](scandiuzzi/README.md#aa-202425-scandiuzzi-tutor)
+
