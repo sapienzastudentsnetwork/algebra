@@ -10,7 +10,7 @@
 
 Scegli un Canale di Insegnamento per iniziare subito ad aggiungere o ad esplorare Esercizi e Soluzioni
 
-- [A.A. 2024/25] **Proff.** [Flavio **D'Alessandro** e Alberto **De Sole** (**A-L**)](dalessandro/README.md#aa-202526-dalessandro---de-sole-a-l)
+- **Proff.** [Flavio **D'Alessandro** e Alberto **De Sole** (**A-L**)](dalessandro/README.md#aa-202526-dalessandro---de-sole-a-l)
 - **Prof.** [Federico **Pellarin** (**M-Z**)](pellarin/README.md#aa-202526-pellarin-mz)
 
 Di seguito anche alcuni professori e tutor di Anni Accademici precedenti
