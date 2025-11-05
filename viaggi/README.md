@@ -50,7 +50,7 @@
         </tr>
         <tr>
           <td align="center">
-            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=label%3A%22prova+30+dicembre+2023+%5BA-L%5D%22"> 30 Dicembre </a>
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=30+dicembre+2023+label%3A%22prova+30+dicembre+2023+%5BA%2FL%5D%22"> 30 Dicembre </a>
           </td>
         </tr>
       </table>
@@ -114,7 +114,7 @@
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%228+settembre+2025+%5BA-L%5D%22"> 8 Settembre </a> - <a href="https://drive.google.com/file/d/1PO2LZBdQucC4KOsX12sv9nPfSElyPvLI/view"> soluzioni </a> </td>
         </tr>
         <tr>
-          <td align="center"> --- </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%223+novembre+2025+%5BA-L%5D%22"> 3 Novembre </a> - <a href="https://drive.google.com/file/d/1f2FnldZzg3eh2rMPDmbV6htLiZrKXtZE/view"> soluzioni </a> </td>
         </tr>
         <tr>
           <td align="center"> --- </td>
