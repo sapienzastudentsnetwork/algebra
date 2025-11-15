@@ -10,17 +10,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" colspan="6">
       <h3> Fogli di Esercizi </h3>
     </td>
   </tr>
   <tr>
-    <td>
-      <table>
-        <tr>
-          <td colspan="6" align="center"> 2025/26 </td>
-        </tr>
-        <tr>
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+1%22"> 1 </a> </td>
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+2%22"> 2 </a> </td>
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+3%22"> 3 </a> </td>
@@ -35,9 +29,6 @@
           <td align="center"> 10 </td>
           <td align="center"> 11 </td>
           <td align="center"> 12 </td>
-        </tr>
-      </table>
-    </td>
   </tr>
 </table>
 
