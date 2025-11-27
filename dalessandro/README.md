@@ -23,7 +23,7 @@
           <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+6%22"> 6 </a></td>
         </tr>
         <tr>
-          <td align="center"> 7 </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen%20label%3A%22%5BA-L%5D%20(2025%2F26)%20Foglio%207%22%20"> 7 </a></td>
           <td align="center"> 8 </td>
           <td align="center"> 9 </td>
           <td align="center"> 10 </td>
@@ -40,7 +40,7 @@
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-a-l) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame]() o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-a-l), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte A-L in particolare, è gestito dai seguenti colleghi:
 - Samuele **Lombardi** ([@Dieal](https://github.com/Dieal)) [[Telegram](https://t.me/dieaaal)]
