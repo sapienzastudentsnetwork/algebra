@@ -44,5 +44,6 @@ In questi forum chiunque può contribuire aggiungendo non solo proposte di soluz
 
 Attualmente, questo forum, nella sua parte A-L in particolare, è gestito dai seguenti colleghi:
 - Samuele **Lombardi** ([@Dieal](https://github.com/Dieal)) [[Telegram](https://t.me/dieaaal)]
+- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
 
 Grazie mille in anticipo per il tuo contributo 🙌
