@@ -10,33 +10,88 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="6">
-      <h3> Fogli di Esercizi </h3>
-    </td>
-  </tr>
-  <tr>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+1%22"> 1 </a> </td>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+2%22"> 2 </a> </td>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+3%22"> 3 </a> </td>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+4%22"> 4 </a> </td>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+5%22"> 5 </a> </td>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+6%22"> 6 </a></td>
+    <td align="center" colspan="2">
+      <table>
+        <tr>
+          <td align="center" colspan="2">
+            <h3> Fogli di Esercizi </h3>
+          </td>
         </tr>
         <tr>
-          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen%20label%3A%22%5BA-L%5D%20(2025%2F26)%20Foglio%207%22%20"> 7 </a></td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+1%22"> 1 </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+2%22"> 2 </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+3%22"> 3 </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+4%22"> 4 </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+5%22"> 5 </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+6%22"> 6 </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen%20label%3A%22%5BA-L%5D%20(2025%2F26)%20Foglio%207%22%20"> 7 </a>
+          </td>
           <td align="center"> 8 </td>
+        </tr>
+        <tr>
           <td align="center"> 9 </td>
           <td align="center"> 10 </td>
+        </tr>
+        <tr>
           <td align="center"> 11 </td>
           <td align="center"> 12 </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table align="center">
+        <tr>
+          <td align="center">
+            <h3> Esami precedenti </h3>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table align="center">
+              <tr>
+                <td align="center"> 2026 </td>
+              </tr>
+              <tr>
+                <td align="center"> 19 Gennaio </td>
+              </tr>
+              <tr>
+                <td align="center"> 17 Febbraio </td>
+              </tr>
+              <tr>
+                <td align="center"> --- </td>
+              </tr>
+              <tr>
+                <td align="center"> --- </td>
+              </tr>
+              <tr>
+                <td align="center"> --- </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        </table>
+    </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 ## 👷‍♀️ Gestori
 
