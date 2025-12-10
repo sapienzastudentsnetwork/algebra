@@ -15,9 +15,8 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Algebra assegn
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-m-z) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
-- Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
-- Marco **Severini** ([@marcoseverini](https://github.com/marcoseverini)) [[Telegram](https://t.me/severoga)]
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
+- Marco **Severini** ([@marcoseverini](https://github.com/marcoseverini)) [[Telegram](https://t.me/severoga)]
 
 Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Belli](https://github.com/Elia-Belli), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
 
@@ -44,7 +43,7 @@ Grazie mille in anticipo per il tuo contributo 🙌
 | Anno      |                                                                                    | | | | | | | | | | |
 |-----------|------------------------------------------------------------------------------------|-|-|-|-|-|-|-|-|-|-|
 | **23/24** | [prova](../../../discussions?discussions_q=label%3A"prova+18+dicembre+2023+[M-Z]") |[prova itinere 2023](../../../discussions?discussions_q=label%3A"prova+in+itinere+2023+[M%2FZ]") |[demo itinere 2023](../../../discussions?discussions_q=label%3A"demo+prova+in+itinere+2023+[M-Z]")|  [15 gennaio](../../../discussions?discussions_q=label%3A"15+gennaio+2024+[M-Z]") | [22 gennaio](../../../discussions?discussions_q=label%3A"22+gennaio+2024+[M-Z]") | [febbraio](../../../discussions?discussions_q=label%3A"13+febbraio+2024+[M-Z]") | [aprile](../../../discussions?discussions_q=label%3A"17+aprile+2024+[M-Z]") | [giugno](../../../discussions?discussions_q=label%3A"3+giugno+2024+[M-Z]") | [luglio](../../../discussions?discussions_q=label%3A"17+luglio+2024+[M-Z]") |[settembre](../../../discussions?discussions_q=label%3A"9+settembre+2024+[M-Z]") |[ottobre](../../../discussions?discussions_q=label%3A"18+ottobre+2024+[M-Z]") |
-| **24/25** | [gennaio](../../../discussions?discussions_q=label%3A"7+gennaio+2025+[M-Z]") |[febbraio](../../../discussions?discussions_q=label%3A"3+febbraio+2025+[M-Z]") |[marzo](../../../discussions?discussions_q=label%3A"18+marzo+2025+[M-Z]")|[giugno](../../../discussions?discussions_q=label%3A"10+giugno+2025+[M-Z]")|[luglio](../../../discussions?discussions_q=label%3A"7+luglio+2025+[M-Z]")
+| **24/25** | [gennaio](../../../discussions?discussions_q=label%3A"7+gennaio+2025+[M-Z]") |[febbraio](../../../discussions?discussions_q=label%3A"3+febbraio+2025+[M-Z]") |[marzo](../../../discussions?discussions_q=label%3A"18+marzo+2025+[M-Z]")|[giugno](../../../discussions?discussions_q=label%3A"10+giugno+2025+[M-Z]")|[luglio](../../../discussions?discussions_q=label%3A"7+luglio+2025+[M-Z]")|settembre|[ottobre](../../../discussions?discussions_q=label%3A"27+ottobre+2025+[M-Z]")
 | **25/26** | - | - | - | - | - | - | - | - | - | - | - |
 
 
