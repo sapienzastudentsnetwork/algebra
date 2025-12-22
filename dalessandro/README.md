@@ -43,17 +43,21 @@
         </tr>
         <tr>
           <td align="center">
-            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen%20label%3A%22%5BA-L%5D%20(2025%2F26)%20Foglio%207%22%20"> 7 </a>
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+7%22"> 7 </a>
           </td>
-          <td align="center"> 8 </td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+8%22"> 8 </a>
+          </td>
         </tr>
         <tr>
-          <td align="center"> 9 </td>
-          <td align="center"> 10 </td>
+          <td align="center">
+            <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+9%22"> 9 </a>
+          </td>
+          <td align="center"> --- </td>
         </tr>
         <tr>
-          <td align="center"> 11 </td>
-          <td align="center"> 12 </td>
+          <td align="center"> --- </td>
+          <td align="center"> --- </td>
         </tr>
       </table>
     </td>
@@ -74,16 +78,16 @@
                 <td align="center"> 19 Gennaio </td>
               </tr>
               <tr>
-                <td align="center"> 17 Febbraio </td>
+                <td align="center"> 18 Febbraio </td>
               </tr>
               <tr>
-                <td align="center"> --- </td>
+                <td align="center"> 12 Giugno </td>
               </tr>
               <tr>
-                <td align="center"> --- </td>
+                <td align="center"> 16 Luglio </td>
               </tr>
               <tr>
-                <td align="center"> --- </td>
+                <td align="center"> 3 Settembre </td>
               </tr>
             </table>
           </td>
