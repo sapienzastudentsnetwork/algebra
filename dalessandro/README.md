@@ -9,12 +9,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
-      <table>
+    <td align="center" colspan="2" valign="top">
+      <table align="center">
         <tr>
-          <td align="center" colspan="2">
-            <h3> Fogli di Esercizi </h3>
-          </td>
+          <td align="center" colspan="3"> <h3> Fogli di Esercizi </h3> </td>
         </tr>
         <tr>
           <td align="center">
@@ -23,16 +21,14 @@
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+2%22"> 2 </a>
           </td>
-        </tr>
-        <tr>
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+3%22"> 3 </a>
           </td>
+        </tr>
+        <tr>
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+4%22"> 4 </a>
           </td>
-        </tr>
-        <tr>
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+5%22"> 5 </a>
           </td>
@@ -47,21 +43,14 @@
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+8%22"> 8 </a>
           </td>
-        </tr>
-        <tr>
           <td align="center">
             <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+9%22"> 9 </a>
           </td>
-          <td align="center"> --- </td>
-        </tr>
-        <tr>
-          <td align="center"> --- </td>
-          <td align="center"> --- </td>
         </tr>
       </table>
     </td>
-    <td>
-      <table align="center">
+    <td valign="top">
+      <table>
         <tr>
           <td align="center">
             <h3> Esami precedenti </h3>
@@ -78,7 +67,10 @@
                     <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2219+gennaio+2026+%5BA-L%5D%22"> 19 </a>  Gennaio </td>
               </tr>
               <tr>
-                <td align="center"> 18 Febbraio </td>
+                <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2218+febbraio+2026+%5BA-L%5D%22"> 18 Febbraio </a> </td>
+              </tr>
+              <tr>
+                <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%228+aprile+2026+%5BA-L%5D%22"> 8 Aprile </a>  </td>
               </tr>
               <tr>
                 <td align="center"> 12 Giugno </td>
