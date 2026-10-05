@@ -88,3 +88,22 @@
     </td>
   </tr>
 </table>
+
+## 🗃️ Argomenti
+
+1. algebra elementare [[esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-a-l?discussions_q=is%3Aopen+category%3A%22Esami+A-L%22+label%3A%22algebra+elementare%22)] [[esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+label%3A%22algebra+elementare%22+category%3A%22Esercizi+A-L%22)], raggruppati principalmente nel foglio [2](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+2%22), [3](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+3%22) e [4](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+4%22)
+
+2. teoria dei gruppi [[esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-a-l?discussions_q=is%3Aopen+category%3A%22Esami+A-L%22+label%3A%22teoria+dei+gruppi%22)] [[esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+label%3A%22teoria+dei+gruppi%22+category%3A%22Esercizi+A-L%22)], raggruppati principalmente nel foglio [1](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+1%22), [5](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+5%22) e [6](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+6%22)
+
+3. algebra lineare [[esami](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esami-a-l?discussions_q=is%3Aopen+category%3A%22Esami+A-L%22+label%3A%22algebra+lineare%22)] [[esercizi](https://github.com/sapienzastudentsnetwork/algebra/discussions/categories/esercizi-a-l?discussions_q=is%3Aopen+label%3A%22algebra+lineare%22+category%3A%22Esercizi+A-L%22)], raggruppati principalmente nel foglio [7](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+7%22), [8](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+8%22) e [9](https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%22%5BA-L%5D+%282025%2F26%29+Foglio+9%22)
+
+## 🛠️ Risorse
+
+[Workspace Notion](https://app.notion.com/p/emanueledambrosio/Algebra-09fc18fe59784e3291a7ea1f41d132dd) del collega [Emanuele Dambrosio](https://github.com/Emanuele-Dambrosio), contenente
+
+- gli appunti trascritti dal professore durante le lezioni
+- i suoi personali appunti e svolgimenti di esercizi assegnati precedentemente per casa o in sede d'esame
+- approfondimenti su definizioni, teoremi, lemmi e dimostrazioni visti a lezione
+- ulteriori informazioni utili
+
+[Frequently Asked Questions](https://github.com/sapienzastudentsnetwork/algebra/blob/main/dalessandro/FAQ.md)
