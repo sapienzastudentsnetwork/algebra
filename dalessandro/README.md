@@ -99,7 +99,9 @@
 
 ## 🛠️ Risorse
 
-[Workspace Notion](https://app.notion.com/p/emanueledambrosio/Algebra-09fc18fe59784e3291a7ea1f41d132dd) del collega [Emanuele Dambrosio](https://github.com/Emanuele-Dambrosio), contenente
+[Corso Moodle](https://elearning.uniroma1.it/course/view.php?id=20187) ufficiale
+
+[Sito Notion](https://app.notion.com/p/emanueledambrosio/Algebra-09fc18fe59784e3291a7ea1f41d132dd) del collega [Emanuele Dambrosio](https://github.com/Emanuele-Dambrosio), contenente
 
 - gli appunti trascritti dal professore durante le lezioni
 - i suoi personali appunti e svolgimenti di esercizi assegnati precedentemente per casa o in sede d'esame
